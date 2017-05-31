@@ -1,0 +1,59 @@
+﻿  vecSomething.cpp
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\vecsomething.cpp(11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  vec4.cpp
+  OBJLoader.cpp
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(373): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(54): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(59): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(65): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(112): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(116): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(124): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(131): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(137): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(6): warning C4101: 'ch': unreferenced local variable
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(16): warning C4101: 'uselessVariable': unreferenced local variable
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(269): warning C4018: '<': signed/unsigned mismatch
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(276): warning C4018: '<': signed/unsigned mismatch
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(344): warning C4018: '<': signed/unsigned mismatch
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(368): warning C4018: '<': signed/unsigned mismatch
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\objloader.cpp(392): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(373): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\main.cpp(111): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\main.cpp(158): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Light.cpp
+  Camera.cpp
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\camera.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\camera.cpp(21): warning C4552: '*': operator has no effect; expected operator with side-effect
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\camera.cpp(22): warning C4552: '*': operator has no effect; expected operator with side-effect
+d:\new computer files\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\camera.cpp(23): warning C4552: '*': operator has no effect; expected operator with side-effect
+  Generating Code...
+  MainAssignment.vcxproj -> D:\new computer files\University\Visual and Interactive Computing (7174)\Main Assignment\MainAssignment\Debug\MainAssignment.exe
+  MainAssignment.vcxproj -> D:\new computer files\University\Visual and Interactive Computing (7174)\Main Assignment\MainAssignment\Debug\MainAssignment.pdb (Full PDB)

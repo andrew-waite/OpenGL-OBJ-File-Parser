@@ -1,0 +1,43 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.11.2016 17:59:26
+
+newmtl _BlenderNatureAssetMaterial_007
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2068 0.3216 0.0191
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 03___Default
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1373 0.0667 0.0000
+	Kd 0.1373 0.0667 0.0000
+	Ks 0.0600 0.0600 0.0600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__4_Color Map.png
+	map_Kd maps\Map__4_Color Map.png
+	map_Ks maps\Map__3_Wood.png
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8902 0.8902 0.8902
+	Kd 0.8902 0.8902 0.8902
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__1_RGB Tint.png
+	map_Kd maps\Map__1_RGB Tint.png

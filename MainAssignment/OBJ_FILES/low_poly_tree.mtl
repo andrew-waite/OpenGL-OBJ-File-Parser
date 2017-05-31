@@ -1,0 +1,145 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.11.2016 14:06:02
+
+newmtl wire_008061138
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0314 0.2392 0.5412
+	Kd 0.0314 0.2392 0.5412
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_088199225
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3451 0.7804 0.8824
+	Kd 0.3451 0.7804 0.8824
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_153228184
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6000 0.8941 0.7216
+	Kd 0.6000 0.8941 0.7216
+	Ks 0.3500 0.3500 0.3500
+
+newmtl 08___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8118 0.8118 0.8118
+	Kd 0.8118 0.8118 0.8118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__8_RGB Tint.png
+	map_Kd maps\Map__8_RGB Tint.png
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8627 0.8627 0.8627
+	Kd 0.8627 0.8627 0.8627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__1_RGB Tint.png
+	map_Kd maps\Map__1_RGB Tint.png
+
+newmtl _polar_bearwire_006134006
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _polar_bearwire_134006006
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__2_RGB Tint.png
+	map_Kd maps\Map__2_RGB Tint.png
+
+newmtl wire_087225198
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3412 0.8824 0.7765
+	Kd 0.3412 0.8824 0.7765
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_228184153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8941 0.7216 0.6000
+	Kd 0.8941 0.7216 0.6000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl 07___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0902 0.0118 0.0000
+	Kd 0.0902 0.0118 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__3_RGB Tint.png
+	map_Kd maps\Map__3_RGB Tint.png
+	map_Ks maps\Map__4_Wood.png
+
+newmtl Leaves
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0299 0.1063 0.0177
+	Ks 0.0855 0.3553 0.0748
+	Ke 0.0000 0.0000 0.0000

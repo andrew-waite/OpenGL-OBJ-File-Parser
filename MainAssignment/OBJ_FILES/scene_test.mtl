@@ -1,0 +1,160 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.11.2016 21:46:05
+
+newmtl 0
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0314 0.2392 0.5412
+	Kd 0.0314 0.2392 0.5412
+	Ks 0.3500 0.3500 0.3500
+	texture 0 0
+	texid 0
+
+newmtl 1
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3451 0.7804 0.8824
+	Kd 0.3451 0.7804 0.8824
+	Ks 0.3500 0.3500 0.3500
+	texture 0 0
+	texid 0
+	
+newmtl 2
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6000 0.8941 0.7216
+	Kd 0.6000 0.8941 0.7216
+	Ks 0.3500 0.3500 0.3500
+	texture 0 0
+	texid 0
+
+newmtl 3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8118 0.8118 0.8118
+	Kd 0.8118 0.8118 0.8118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__8_RGB Tint.png
+	map_Kd maps\Map__8_RGB Tint.png
+	texture 0 0
+	texid 0
+
+newmtl 4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8627 0.8627 0.8627
+	Kd 0.8627 0.8627 0.8627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__1_RGB Tint.png
+	map_Kd maps\Map__1_RGB Tint.png
+	texture 0 0
+	texid 0
+
+newmtl 5
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3412 0.8824 0.7765
+	Kd 0.3412 0.8824 0.7765
+	Ks 0.3500 0.3500 0.3500
+	texture 0 0
+	texid 0
+
+newmtl 6
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\woodwall2.png
+	map_Kd maps\woodwall2.png
+	texture 1 0
+	texid 0
+
+newmtl 7
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\download.png
+	map_Kd maps\download.png
+	texture 1 1
+	texid 0
+
+newmtl 8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1725 0.0275 0.0000
+	Kd 0.1725 0.0275 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Map__9_RGB Tint.png
+	map_Kd maps\Map__9_RGB Tint.png
+	texture 0 0
+	texid 0
+
+newmtl 9
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\bricks.png
+	map_Kd maps\bricks.png
+	texture 1 2
+	texid 0
+
+newmtl 10
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0299 0.1063 0.0177
+	Ks 0.0855 0.3553 0.0748
+	Ke 0.0000 0.0000 0.0000
+	texture 0 0
+	texid 0

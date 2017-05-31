@@ -1,0 +1,68 @@
+﻿  Camera.cpp
+Camera.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+Camera.cpp(21): warning C4552: '*': operator has no effect; expected operator with side-effect
+Camera.cpp(22): warning C4552: '*': operator has no effect; expected operator with side-effect
+Camera.cpp(23): warning C4552: '*': operator has no effect; expected operator with side-effect
+  Light.cpp
+  main.cpp
+c:\users\andrew\documents\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\andrew\documents\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(373): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+main.cpp(46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  OBJLoader.cpp
+c:\users\andrew\documents\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\andrew\documents\university\visual and interactive computing (7174)\main assignment\mainassignment\mainassignment\bitmap.h(373): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+OBJLoader.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+OBJLoader.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(45): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(51): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(83): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+OBJLoader.cpp(91): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(103): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(110): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(116): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(121): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+OBJLoader.cpp(6): warning C4101: 'ch': unreferenced local variable
+OBJLoader.cpp(16): warning C4101: 'uselessVariable': unreferenced local variable
+OBJLoader.cpp(196): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  OBJLoader.cpp(196): note: consider using '%zd' in the format string
+  vec3.cpp
+vec3.cpp(11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardUpFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutReshapeFunc
+main.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+main.obj : error LNK2001: unresolved external symbol __imp_glutMouseFunc
+main.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+main.obj : error LNK2001: unresolved external symbol __imp_glutIgnoreKeyRepeat
+main.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutIdleFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+main.obj : error LNK2001: unresolved external symbol __imp_glutSpecialFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutSpecialUpFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+main.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+main.obj : error LNK2001: unresolved external symbol __imp_glutMotionFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutGet
+main.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+main.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+C:\Users\Andrew\Documents\University\Visual and Interactive Computing (7174)\Main Assignment\MainAssignment\x64\Release\MainAssignment.exe : fatal error LNK1120: 19 unresolved externals
